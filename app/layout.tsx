@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "thedandavis.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "Co-founder of Build.com and The One",
     url: "https://thedandavis.com",
     siteName: "thedandavis.com",
     images: [
