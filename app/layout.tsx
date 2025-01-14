@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "thedandavis.com",
+    template: "%s | thedandavis.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Co-founder of Build.com and The One",
   openGraph: {
-    title: "chronark.com",
+    title: "thedandavis.com",
     description:
       "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    url: "https://thedandavis.com",
+    siteName: "thedandavis.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://thedandavis.com/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "The Dan Davis",
     card: "summary_large_image",
   },
   icons: {
