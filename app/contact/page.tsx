@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Twitter, Mail, Linkedin } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -7,7 +7,7 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/realw5",
+		href: "https://x.com/realw5",
 		label: "Twitter",
 		handle: "@realw5",
 	},
@@ -17,12 +17,12 @@ const socials = [
 		label: "Email",
 		handle: "dan@thedandavis.com",
 	},
-/* 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
-		label: "Github",
-		handle: "chronark",
-	}, */
+ 	{
+		icon: <Linkedin size={20} />,
+		href: "https://www.linkedin.com/in/danrdavis/",
+		label: "LinkedIn",
+		handle: "realw5",
+	}, 
 ];
 
 export default function Example() {
