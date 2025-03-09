@@ -1,5 +1,5 @@
 "use client";
-import { Twitter, Mail, Linkedin } from "lucide-react";
+import { Twitter, Mail, Linkedin, Github } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -22,7 +22,12 @@ const socials = [
 		href: "https://www.linkedin.com/in/danrdavis/",
 		label: "LinkedIn",
 		handle: "realw5",
-	}, 
+	}, 	{
+		icon: <Github size={20} />,
+		href: "https://github.com/thedandavis/thedandavis.com",
+		label: "Github",
+		handle: "thedandavis",
+	}
 ];
 
 export default function Example() {
