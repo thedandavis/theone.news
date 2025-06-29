@@ -4,9 +4,9 @@ import Particles from "./components/particles";
 
 const navigation = [
   // { name: "Stories", href: "/stories" },
-  { name: "Contact", href: "/contact" },
+  { name: "Contact Me", href: "/contact" },
   { name: "Strange Things in Chico", href: "https://drive.google.com/drive/folders/1ukCA9lwEnx8YXrj91RXeMKcyuV0rgHEy?usp=sharing" },
-
+  { name: "You", href: "https://101111.sh" },
 ];
 
 export default function Home() {
