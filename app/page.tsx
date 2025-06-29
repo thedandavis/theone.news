@@ -6,7 +6,7 @@ const navigation = [
   // { name: "Stories", href: "/stories" },
   { name: "Contact Me", href: "/contact" },
   { name: "Strange Things in Chico", href: "https://drive.google.com/drive/folders/1ukCA9lwEnx8YXrj91RXeMKcyuV0rgHEy?usp=sharing" },
-  { name: "You", href: "https://101111.sh" },
+  { name: "You", href: "https://01111001.app" },
 ];
 
 export default function Home() {
