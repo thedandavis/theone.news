@@ -5,8 +5,8 @@ import Particles from "./components/particles";
 const navigation = [
   // { name: "Stories", href: "/stories" },
   { name: "Contact Me", href: "/contact" },
-  { name: "The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
-  { name: "Strange Things in Chico", href: "https://drive.google.com/drive/folders/1ukCA9lwEnx8YXrj91RXeMKcyuV0rgHEy?usp=sharing" },
+  { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
+  { name: "Strange Things in Chico", href: "https://tinyurl.com/who-is-the" },
   { name: "You", href: "https://011110010110111101110101.com" },
 ];
 
