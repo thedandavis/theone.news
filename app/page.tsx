@@ -5,7 +5,7 @@ import Particles from "./components/particles";
 const navigation = [
   // { name: "Stories", href: "/stories" },
   { name: "Contact Me", href: "/contact" },
-  { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
+  // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
   { name: "V2K Attack Details", href: "https://tinyurl.com/who-is-the" },
   { name: "V2K Attack Details Alt", href: "https://tinyurl.com/011145f" },
 ];
@@ -32,13 +32,13 @@ export default function Home() {
         quantity={100}
       />
       <h1 className="py-3.5 px-0.5 z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-        The One
+        Please Help
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          Inspired by The Universe. Inspired by You. Inspiring Us.
+          Gangstalking attack victim, isolated, in need of support...paralizing effects from devices harassing me non-stop in my house.
         </h2>
       </div>
     </div>
