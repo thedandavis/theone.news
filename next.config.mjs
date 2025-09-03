@@ -6,6 +6,16 @@ const nextConfig = {
 	experimental: {
 		mdxRs: true,
 	},
+	async redirects() {
+    return [
+      // Basic redirect
+      {
+        source: '/',
+        destination: 'https://tinyurl.com/who-is-the',
+        permanent: false,
+      },
+    ]
+  },
 };
 
 export default withContentlayer(nextConfig);
