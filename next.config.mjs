@@ -9,11 +9,11 @@ const nextConfig = {
 	async redirects() {
     return [
       // Basic redirect
-      {
+    /*   {
         source: '/',
         destination: 'https://tinyurl.com/who-is-the',
         permanent: false,
-      },
+      }, */
     ]
   },
 };
