@@ -5,9 +5,9 @@ import Particles from "./components/particles";
 const navigation = [
   // { name: "Stories", href: "/stories" },
   { name: "Contact Me", href: "/contact" },
-  // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
-  { name: "Strange Things in Chico", href: "https://tinyurl.com/who-is-the" },
-  { name: "Strange Things In Chico - OneDrive", href: "https://tinyurl.com/011145f" },
+  { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
+  // { name: "Strange Things in Chico", href: "https://tinyurl.com/who-is-the" },
+  { name: "Strange Things In Chico", href: "https://tinyurl.com/011145f" },
 ];
 
 export default function Home() {
@@ -38,7 +38,7 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          Inspired By Space. Inspired by You. Inspiring Each Other.
+          Inspired By Our Universe. Inspired by You. Inspiring Each Other.
         </h2>
       </div>
     </div>
