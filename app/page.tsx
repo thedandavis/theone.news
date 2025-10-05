@@ -3,7 +3,7 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-  // { name: "Stories", href: "/stories" },
+  { name: "Our Universe", href: "https://ouruniverse.net" },
   { name: "Contact Me", href: "/contact" },
   { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
   // { name: "Strange Things in Chico", href: "https://tinyurl.com/who-is-the" },
