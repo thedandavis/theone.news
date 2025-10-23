@@ -6,7 +6,7 @@ const navigation = [
   { name: "Our Universe", href: "https://ouruniverse.net" },
   { name: "Contact Me", href: "/contact" },
   { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
-  { name: "Neighborhood Jam Invite", href: "https://spotify.link/VoKaKIowGXb" },
+  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
   { name: "Strange Things In Chico", href: "https://tinyurl.com/011145f" },
 ];
 
