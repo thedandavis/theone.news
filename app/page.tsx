@@ -3,10 +3,10 @@ import React from "react";
 import Particles from "./components/particles";
 
 const navigation = [
-  { name: "Our Universe", href: "https://ouruniverse.net" },
-  { name: "Contact Me", href: "/contact" },
-  { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
-  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
+  // { name: "Our Universe", href: "https://ouruniverse.net" },
+  { name: "Contact Me", href: "mailto:1@31.works" },
+ // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
+//  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
   { name: "Strange Things In Chico", href: "https://tinyurl.com/011145f" },
 ];
 
@@ -38,7 +38,7 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          Inspired By The Universe. Inspired by You. Inspiring Each Other.
+          The One Inspired By The Universe. Inspired by You. Inspiring Each Other.
         </h2>
       </div>
     </div>
