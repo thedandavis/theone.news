@@ -7,7 +7,7 @@ const navigation = [
   { name: "Contact Me", href: "mailto:1@31.works" },
  // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
 //  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
-  { name: "Strange Things In Chico", href: "https://tinyurl.com/011145f" },
+  { name: "Strange Things In Chico", href: "https://drive.google.com/drive/folders/1ukCA9lwEnx8YXrj91RXeMKcyuV0rgHEy" },
 ];
 
 export default function Home() {
