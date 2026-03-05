@@ -19,10 +19,11 @@ const socials = [
 	},
  	{
 		icon: <Linkedin size={20} />,
-		href: "https://www.linkedin.com/in/podan",
+		href: "https://www.linkedin.com/in/podan/",
 		label: "LinkedIn",
 		handle: "realw5",
-	}, 	{
+	}, 	
+{
 		icon: <Github size={20} />,
 		href: "https://github.com/thedandavis/thedandavis.com",
 		label: "Github",
