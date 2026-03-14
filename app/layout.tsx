@@ -52,9 +52,9 @@ const inter = Inter({
   variable: "--font-inter",
 });
 
-const calSans = LocalFont({
-  src: "../public/fonts/CalSans-SemiBold.ttf",
-  variable: "--font-calsans",
+const calSans = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
 });
 
 export default function RootLayout({

@@ -5,8 +5,8 @@ import Particles from "./components/particles";
 const navigation = [
   // { name: "Our Universe", href: "https://ouruniverse.net" },
   { name: "Contact Me", href: "/contact" },
- // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
-//  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
+  // { name:"The One's Playlist", href: "https://open.spotify.com/playlist/17xjsjsivJEkmDKwhuwH8I?si=9b0668ae743d4391" },
+  //  { name: "Neighborhood Jam Invite", href: "https://spotify.link/JMa5d7UCGXb" },
   { name: "Strange Things In Chico", href: "https://drive.google.com/drive/folders/1ukCA9lwEnx8YXrj91RXeMKcyuV0rgHEy" },
 ];
 
@@ -32,14 +32,15 @@ export default function Home() {
         quantity={100}
       />
       <h1 className="py-3.5 px-0.5 z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-        Daniel Roy Davis - The One 
+        Daniel Roy Davis
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-Inspired By The Universe. Inspired by You. Inspiring Each Other.
-      </div
+          The One... Inspired by You. Inspiring Each Other.
+        </h2>
+      </div>
     </div>
   );
 
